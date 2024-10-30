@@ -1,5 +1,5 @@
 /*
-This is a simple example of how to use the blockchain package.
+This is a simple blockchain application.
 
 1. Create a new blockchain instance with a mining difficulty of 2.
 2. Record transactions on the blockchain for Alice, Bob, and John.
