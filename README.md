@@ -1,2 +1,2 @@
 # blockchain
-Blockchain in Go
+This is a minimal blockchain written in Go.
