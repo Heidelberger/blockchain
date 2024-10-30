@@ -5,11 +5,8 @@ This is a simple blockchain application.
 2. Record some transactions on the blockchain
 3. Check if the blockchain is valid
 
-Note: The blockchain package is designed to be used in a real-world application,
-where the data is securely stored and transmitted across a network.
-In this example, we're just demonstrating the basic functionality of the package.
 In a real application, additional security measures, such as encryption and authentication,
-should be implemented to protect the data and prevent unauthorized access or tampering.
+would be implemented to protect the data and prevent unauthorized access or tampering.
 */
 
 package main
