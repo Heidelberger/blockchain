@@ -65,7 +65,7 @@ func (b *Blockchain) AddBlock(from, to string, amount float64) {
 	b.chain = append(b.chain, newBlock)
 }
 
-func (b Blockchain) isValid() bool {
+func (b Blockchain) IsValid() bool {
 	for i := range b.chain[1:] {
 		previousBlock := b.chain[i]
 		currentBlock := b.chain[i+1]
